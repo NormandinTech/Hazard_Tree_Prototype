@@ -1,0 +1,13 @@
+# Godot's import cache: rebuilt automatically when the project opens
+.godot/
+*.import
+*.uid
+# Playtest builds
+build/
+*.exe
+*.pck
+*.zip
+# Licensed sounds: keep them out of a public repo
+audio/
+# Downloaded textures (large; each person downloads their own)
+textures/
